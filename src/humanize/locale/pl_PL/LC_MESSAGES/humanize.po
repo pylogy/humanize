@@ -358,7 +358,7 @@ msgstr[2] "%d lata"
 #: src/humanize/time.py:217
 #, python-format
 msgid "%s from now"
-msgstr "%s od teraz"
+msgstr "za %s"
 
 #: src/humanize/time.py:217
 #, python-format
